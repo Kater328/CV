@@ -32,19 +32,19 @@ Also, a page with statistics has been implemented, which calculates and stores u
   
 
 ## Education
-
+ 
 **2016-2020**  
 Odessa National Polytechnic University, specialty "Computer Science and Information Technologies"  (bachelor's degree with honors).  
->  
+  
 **2019-2020:**  
 Comprehensive course "Informatics" under the exchange program with the Polytechnic University of Valencia (certificate).  
->  
+  
 **2020 - 2021:**  
 Odessa National Polytechnic University, specialty "Information technology design in mechanical engineering" (Master's degree).   
->  
+  
 **2020 - 2021:**  
 Course JavaScript Development of RS School (certificate).   
->  
+  
 **My Codewars profile:**  
 [Codewars Profile.](https://www.codewars.com/users/Kater328)  
   
